@@ -1,0 +1,14 @@
+C:\WORKSPACE - C#\reflection\reflection\bin\Debug\net7.0\reflection.exe
+C:\WORKSPACE - C#\reflection\reflection\bin\Debug\net7.0\reflection.deps.json
+C:\WORKSPACE - C#\reflection\reflection\bin\Debug\net7.0\reflection.runtimeconfig.json
+C:\WORKSPACE - C#\reflection\reflection\bin\Debug\net7.0\reflection.dll
+C:\WORKSPACE - C#\reflection\reflection\bin\Debug\net7.0\reflection.pdb
+C:\WORKSPACE - C#\reflection\reflection\obj\Debug\net7.0\reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE - C#\reflection\reflection\obj\Debug\net7.0\reflection.AssemblyInfoInputs.cache
+C:\WORKSPACE - C#\reflection\reflection\obj\Debug\net7.0\reflection.AssemblyInfo.cs
+C:\WORKSPACE - C#\reflection\reflection\obj\Debug\net7.0\reflection.csproj.CoreCompileInputs.cache
+C:\WORKSPACE - C#\reflection\reflection\obj\Debug\net7.0\reflection.dll
+C:\WORKSPACE - C#\reflection\reflection\obj\Debug\net7.0\refint\reflection.dll
+C:\WORKSPACE - C#\reflection\reflection\obj\Debug\net7.0\reflection.pdb
+C:\WORKSPACE - C#\reflection\reflection\obj\Debug\net7.0\reflection.genruntimeconfig.cache
+C:\WORKSPACE - C#\reflection\reflection\obj\Debug\net7.0\ref\reflection.dll
